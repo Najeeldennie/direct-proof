@@ -1,0 +1,2 @@
+# direct-proof
+proof
